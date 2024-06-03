@@ -13,6 +13,7 @@ from drl_frameworks import DRL
 
 #%% Define the DRL Framework
 
+#3000정도가 좋을 듯
 num_episodes = 500
 
 # ue_geo_position = GeoCordinates(-62, 50, 0)
