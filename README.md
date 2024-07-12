@@ -1,16 +1,3 @@
-7월 10일 기준 수정
-고마워 ㅎㅎ
-
-
-선우야!!❤ 빠이팅!!( •̀ ω •́ )✧
-
-
-🧡DQN 실행해서 학습하고 Reward 값 얻기를 원한다면
-→ Past(Get reward graph)
-
-🧡각종 plot을 뽑고 싶다면
-→ Now(Various plots)
-
 # dqn-leo-handover-python
 DQN based Handover Optimization for LEO Satellites in NTN
 
